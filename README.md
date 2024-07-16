@@ -5,6 +5,8 @@
 
 Hello! I'm Rob, a passionate and dedicated beginner in the world of software development. Over the past three months, I have immersed myself in learning Python, focusing on writing clean, efficient code, understanding the intricacies of software programming, and mastering the art of testing to ensure robust and error-free code.
 
+In my Software Engineering Bootcamp, I achieved a 99% out of 100% overall grade for Completeness, Efficiency, Style and Documentation.
+
 ## About Me
 
 - **Name:** Rob Fenton
