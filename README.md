@@ -66,7 +66,6 @@ Data Query and Update: Retrieves records based on criteria, updates course codes
 Table Deletion: Demonstrates dropping the entire table.
 Technologies Used: SQL, Database management
 
-# Looking Forward
 I am currently seeking my first job in software development, where I can contribute to real-world projects and continue to grow my skills. I am eager to apply my knowledge and enthusiasm for coding in a professional setting and to collaborate with experienced developers.
 
 # Connect with Me
