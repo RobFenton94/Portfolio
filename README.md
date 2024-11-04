@@ -35,7 +35,7 @@ dob_task.py: Reads and processes client names and birthdates from a text file (D
 student_register.py: Collects student registration details, including student IDs, and writes them to a formatted registration file (reg_form.txt).
 Technologies Used: Python, File handling, String manipulation, Data processing
 
-Task 3: Email Simulation with Object-Oriented Programming
+# Task 3: Email Simulation with Object-Oriented Programming
 Description: This task demonstrates basic object-oriented programming (OOP) principles through an email simulator application. It includes two classes: Email to represent individual emails and EmailSimulator to manage an inbox of emails. Users can populate their inbox with sample emails, mark emails as read, and view unread emails.
 
 # Key Features:
