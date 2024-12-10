@@ -70,5 +70,5 @@ I am currently seeking my first job in software development, where I can contrib
 
 # Connect with Me
 Email: robfenton94@hotmail.com
-LinkedIn: Rob Fenton's LinkedIn
+LinkedIn: https://www.linkedin.com/in/rob-fenton-a77247231/
 Thank you for visiting my GitHub portfolio! Feel free to explore my projects and reach out if you have any questions or opportunities.
